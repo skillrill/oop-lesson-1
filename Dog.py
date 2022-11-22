@@ -2,7 +2,7 @@ from Mammal import Mammal
 
 class Dog(Mammal):
     
-    legs = 6
+    legs = 10
 
     # class attributes
     def __init__(self, name, age, breed):
