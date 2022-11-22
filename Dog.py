@@ -3,6 +3,7 @@ from Mammal import Mammal
 class Dog(Mammal):
     
     legs = 10
+    tail = 1
 
     # class attributes
     def __init__(self, name, age, breed):
